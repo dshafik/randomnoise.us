@@ -1,4 +1,4 @@
-![RandomNoise.US Logo](http://randomnoise.us/img/randomnoise.us-twitter.png)
+![RandomNoise.US Logo](https://randomnoise.us/img/randomnoise.us-twitter.png)
 
 # RandomNoise.US
 
@@ -11,7 +11,7 @@ Creating noise-as-a-service, as an act of civil disobedience, that attacks the w
 Deploying RandomNoise.US is achieved simply by adding the following line to the head of your web sites:
 
 ```html
-<script src="http://randomnoise.us/js/squawk.js"></script>
+<script src="//randomnoise.us/js/squawk.js"></script>
 ```
 
 Deploying this code will cause your web site visitors to make a single request to a random IP address, for every request that you serve with the script tag, in order to add noise to the logs being kept by their ISPs.
